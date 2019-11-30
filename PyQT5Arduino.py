@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'pythonblue.ui'
+# Form implementation generated from reading ui file 'PyQt5Arduino.ui'
 #
 # Created by: PyQt5 UI code generator 5.13.0
 #
